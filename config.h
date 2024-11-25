@@ -23,6 +23,6 @@
     #define SKIP_MINIGAMESELECTION  1
 
     // The current minigame you want to test
-    #define MINIGAME_TO_TEST  "game"
+    #define MINIGAME_TO_TEST  "sb_hhh"
 
 #endif
